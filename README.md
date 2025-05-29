@@ -2,4 +2,4 @@
 
 I think it's a lot better.
 
-Another new line.
+Another new line!
